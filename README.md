@@ -64,4 +64,4 @@ The valuation included a significant discount rate adjustment for **Regulatory R
 
 ---
 
-### [Full Report (PDF)](docs/MxA Acquisition Analysis Report.pdf)
+### [Full Report (PDF)](https://github.com/AkshitVerma97/microsoft-activision-merger-analysis/blob/b268b502ec050327b2badf1c623d129f6ed33cac/docs/MxA%20Acquisition%20Analysis%20Report.pdf)
