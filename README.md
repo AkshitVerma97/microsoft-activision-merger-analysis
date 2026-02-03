@@ -50,7 +50,7 @@ Despite the high premium, our model projected that the **49% year-over-year reve
 ## Risk Assessment (SWOT)
 The valuation included a significant discount rate adjustment for **Regulatory Risk** (FTC/CMA blocks) and **Operational Risk** (Cultural turnaround).
 
-![SWOT Analysis](assets/images/Activision SWOT Analysis.png)
+![SWOT Analysis](https://github.com/AkshitVerma97/microsoft-activision-merger-analysis/blob/9212f7e81ac760aee68dd93e129520b0a4614063/assets/images/Activision%20SWOT%20Analysis.png)
 
 *(Figure 2: Strategic risk assessment highlighting the operational challenges vs. the "Game Pass" opportunity)*
 
